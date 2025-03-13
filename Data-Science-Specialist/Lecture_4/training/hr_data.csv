@@ -1,0 +1,1471 @@
+Age,MonthlyIncome,Department,Gender,Education,Attrition
+41,5993,Sales,Female,2,Yes
+49,5130,Research & Development,Male,1,No
+37,2090,Research & Development,Male,2,Yes
+33,2909,Research & Development,Female,4,No
+27,3468,Research & Development,Male,1,No
+32,3068,Research & Development,Male,2,No
+59,2670,Research & Development,Female,3,No
+30,2693,Research & Development,Male,1,No
+38,9526,Research & Development,Male,3,No
+36,5237,Research & Development,Male,3,No
+35,2426,Research & Development,Male,3,No
+29,4193,Research & Development,Female,2,No
+31,2911,Research & Development,Male,1,No
+34,2661,Research & Development,Male,2,No
+28,2028,Research & Development,Male,3,Yes
+29,9980,Research & Development,Female,4,No
+32,3298,Research & Development,Male,2,No
+22,2935,Research & Development,Male,2,No
+53,15427,Sales,Female,4,No
+38,3944,Research & Development,Male,3,No
+24,4011,Research & Development,Female,2,No
+36,3407,Sales,Male,4,Yes
+34,11994,Research & Development,Female,4,No
+21,1232,Research & Development,Male,2,No
+34,2960,Research & Development,Male,1,Yes
+53,19094,Research & Development,Female,3,No
+32,3919,Research & Development,Female,1,Yes
+42,6825,Sales,Male,4,No
+44,10248,Research & Development,Female,4,No
+46,18947,Sales,Female,4,No
+33,2496,Research & Development,Male,3,No
+44,6465,Research & Development,Male,4,No
+30,2206,Research & Development,Male,2,No
+39,2086,Sales,Male,3,Yes
+24,2293,Research & Development,Male,3,Yes
+43,2645,Research & Development,Female,2,No
+50,2683,Sales,Male,2,Yes
+35,2014,Sales,Female,3,No
+36,3419,Research & Development,Female,4,No
+33,5376,Sales,Female,3,No
+35,1951,Research & Development,Male,2,No
+27,2341,Research & Development,Female,4,No
+26,2293,Research & Development,Male,3,Yes
+27,8726,Sales,Male,3,No
+30,4011,Research & Development,Female,2,No
+41,19545,Research & Development,Female,3,Yes
+34,4568,Sales,Male,4,No
+37,3022,Research & Development,Male,2,No
+46,5772,Sales,Male,4,No
+35,2269,Research & Development,Male,1,No
+48,5381,Research & Development,Male,2,Yes
+28,3441,Research & Development,Male,4,Yes
+44,5454,Sales,Female,5,No
+35,9884,Research & Development,Male,2,No
+26,4157,Sales,Female,3,No
+33,13458,Research & Development,Female,2,No
+35,9069,Sales,Male,5,No
+35,4014,Research & Development,Female,4,No
+31,5915,Research & Development,Male,4,No
+37,5993,Research & Development,Male,4,No
+32,6162,Research & Development,Male,3,No
+38,2406,Research & Development,Female,5,No
+50,18740,Research & Development,Female,2,No
+59,7637,Sales,Female,3,No
+36,10096,Research & Development,Female,3,No
+55,14756,Research & Development,Female,3,No
+36,6499,Research & Development,Male,3,No
+45,9724,Research & Development,Male,3,No
+35,2194,Research & Development,Male,3,No
+36,3388,Research & Development,Male,3,Yes
+59,5473,Sales,Female,1,No
+29,2703,Research & Development,Male,3,No
+31,2501,Research & Development,Male,4,No
+32,6220,Research & Development,Male,3,No
+36,3038,Research & Development,Female,3,No
+31,4424,Research & Development,Female,4,No
+35,4312,Sales,Male,4,No
+45,13245,Research & Development,Male,4,No
+37,13664,Research & Development,Male,4,No
+46,5021,Human Resources,Male,2,No
+30,5126,Research & Development,Male,1,No
+35,2859,Research & Development,Male,3,No
+55,10239,Sales,Male,2,No
+38,5329,Research & Development,Female,3,No
+34,4325,Research & Development,Male,2,No
+56,7260,Research & Development,Male,3,No
+23,2322,Sales,Male,1,No
+51,2075,Research & Development,Male,4,No
+30,4152,Research & Development,Male,3,No
+46,9619,Sales,Male,2,Yes
+40,13503,Research & Development,Male,4,No
+51,5441,Sales,Male,4,No
+30,5209,Sales,Female,2,No
+46,10673,Research & Development,Male,3,No
+32,5010,Sales,Male,4,No
+54,13549,Research & Development,Female,4,No
+24,4999,Sales,Female,2,No
+28,4221,Sales,Male,3,No
+58,13872,Sales,Male,4,No
+44,2042,Research & Development,Male,3,No
+37,2073,Human Resources,Male,4,Yes
+32,2956,Research & Development,Male,1,No
+20,2926,Research & Development,Female,3,Yes
+34,4809,Research & Development,Female,4,No
+37,5163,Research & Development,Male,2,No
+59,18844,Human Resources,Female,4,No
+50,18172,Research & Development,Female,3,No
+25,5744,Sales,Male,3,Yes
+25,2889,Research & Development,Male,1,No
+22,2871,Research & Development,Female,3,No
+51,7484,Research & Development,Female,4,No
+34,6074,Research & Development,Male,3,Yes
+54,17328,Human Resources,Female,3,No
+24,2774,Research & Development,Male,1,No
+34,4505,Research & Development,Female,4,No
+37,7428,Sales,Male,3,No
+34,11631,Research & Development,Female,3,No
+36,9738,Sales,Female,2,No
+36,2835,Research & Development,Female,2,No
+43,16959,Sales,Male,2,No
+30,2613,Research & Development,Male,3,No
+33,6146,Sales,Male,2,No
+56,4963,Research & Development,Female,4,Yes
+51,19537,Research & Development,Male,3,No
+31,6172,Sales,Male,4,Yes
+26,2368,Research & Development,Female,3,No
+58,10312,Research & Development,Female,4,Yes
+19,1675,Sales,Male,1,Yes
+22,2523,Research & Development,Male,1,No
+49,6567,Research & Development,Female,4,No
+43,4739,Research & Development,Female,3,No
+50,9208,Sales,Female,3,No
+31,4559,Sales,Female,3,Yes
+41,8189,Sales,Male,1,No
+26,2942,Human Resources,Female,1,No
+36,4941,Research & Development,Male,2,No
+51,10650,Research & Development,Male,4,Yes
+39,5902,Sales,Female,4,No
+25,8639,Sales,Male,3,No
+30,6347,Human Resources,Male,3,No
+32,4200,Research & Development,Female,3,Yes
+45,3452,Research & Development,Male,3,No
+38,4317,Research & Development,Female,5,No
+30,2632,Research & Development,Female,3,No
+32,4668,Sales,Male,2,No
+30,3204,Research & Development,Female,3,No
+30,2720,Research & Development,Male,1,No
+41,17181,Research & Development,Male,3,No
+41,2238,Research & Development,Male,4,No
+19,1483,Research & Development,Female,1,No
+40,5605,Research & Development,Female,3,No
+35,7295,Sales,Male,5,No
+53,2306,Sales,Male,2,No
+45,2348,Research & Development,Male,3,No
+32,8998,Sales,Female,3,No
+29,4319,Research & Development,Male,1,No
+51,6132,Research & Development,Male,4,No
+58,3346,Research & Development,Female,3,No
+40,10855,Sales,Male,4,No
+34,2231,Sales,Female,4,No
+22,2323,Research & Development,Male,1,No
+27,2024,Research & Development,Male,3,No
+28,2713,Research & Development,Male,3,No
+57,9439,Research & Development,Male,2,No
+27,2566,Research & Development,Male,3,No
+50,19926,Research & Development,Female,3,No
+41,2451,Research & Development,Male,3,No
+30,9419,Sales,Female,3,No
+38,8686,Sales,Female,4,No
+32,3038,Research & Development,Male,5,No
+27,3058,Research & Development,Male,3,No
+19,2325,Sales,Female,1,Yes
+36,2088,Research & Development,Male,2,No
+30,3072,Research & Development,Male,3,No
+45,5006,Sales,Female,2,No
+56,4257,Research & Development,Female,3,No
+33,2500,Research & Development,Male,3,No
+19,1102,Research & Development,Male,3,Yes
+46,10453,Sales,Female,2,No
+38,2288,Research & Development,Female,2,No
+31,3929,Research & Development,Female,1,No
+34,2311,Research & Development,Female,2,No
+41,3140,Sales,Female,2,Yes
+50,3690,Research & Development,Male,3,No
+53,4450,Research & Development,Female,2,No
+33,2756,Research & Development,Female,3,No
+40,19033,Research & Development,Female,1,No
+55,18722,Research & Development,Male,4,No
+34,9547,Research & Development,Male,1,No
+51,13734,Research & Development,Female,3,No
+52,19999,Research & Development,Male,4,No
+27,2279,Research & Development,Female,3,No
+35,5916,Research & Development,Male,2,Yes
+43,2089,Research & Development,Male,3,No
+45,16792,Research & Development,Male,2,No
+37,3564,Research & Development,Male,3,No
+35,4425,Research & Development,Female,3,No
+42,5265,Research & Development,Female,2,No
+38,6553,Research & Development,Male,4,No
+38,6261,Research & Development,Male,3,No
+27,4298,Research & Development,Male,1,No
+49,6804,Research & Development,Male,4,No
+34,3815,Research & Development,Male,4,No
+40,2741,Research & Development,Male,2,No
+38,6673,Research & Development,Male,1,Yes
+29,7639,Sales,Female,3,Yes
+22,2328,Research & Development,Male,3,No
+36,2153,Research & Development,Female,1,No
+40,4876,Research & Development,Male,5,No
+46,9396,Research & Development,Male,4,No
+32,10400,Sales,Male,4,Yes
+30,8474,Research & Development,Male,1,No
+27,9981,Sales,Female,3,No
+51,12490,Research & Development,Male,4,No
+30,2657,Research & Development,Female,3,Yes
+41,13591,Sales,Female,3,No
+30,6696,Sales,Female,4,Yes
+29,2058,Research & Development,Male,3,Yes
+45,8865,Sales,Female,3,No
+54,5940,Sales,Female,3,No
+36,5914,Research & Development,Male,2,No
+33,2622,Research & Development,Female,4,No
+37,12185,Research & Development,Male,3,No
+38,10609,Sales,Male,3,No
+31,4345,Research & Development,Male,4,No
+59,2177,Research & Development,Male,3,No
+37,2793,Sales,Male,4,No
+29,7918,Sales,Female,1,No
+35,8789,Sales,Female,3,No
+29,2389,Research & Development,Male,1,Yes
+52,3212,Research & Development,Female,3,No
+42,19232,Research & Development,Male,2,No
+59,2267,Human Resources,Male,2,No
+50,19517,Sales,Female,4,No
+33,2436,Research & Development,Male,3,Yes
+43,16064,Sales,Female,3,No
+33,2707,Research & Development,Female,2,Yes
+52,19068,Sales,Male,4,No
+32,3931,Sales,Female,2,No
+32,3730,Research & Development,Male,3,Yes
+39,2232,Research & Development,Female,4,No
+32,4465,Sales,Male,4,No
+41,3072,Research & Development,Male,2,No
+40,3319,Research & Development,Male,2,No
+45,19202,Research & Development,Male,3,No
+31,13675,Research & Development,Male,4,No
+33,2911,Research & Development,Female,4,No
+34,5957,Research & Development,Male,4,No
+37,3920,Research & Development,Female,2,No
+45,6434,Research & Development,Male,4,No
+37,10048,Research & Development,Male,3,Yes
+39,10938,Research & Development,Female,4,No
+29,2340,Research & Development,Male,3,No
+42,6545,Research & Development,Female,2,No
+29,6931,Sales,Male,2,No
+25,4898,Research & Development,Female,3,No
+42,2593,Research & Development,Female,3,No
+40,19436,Research & Development,Male,2,No
+51,2723,Research & Development,Male,3,No
+31,3479,Research & Development,Male,2,Yes
+32,2794,Research & Development,Male,3,No
+38,5249,Sales,Male,2,No
+32,2176,Research & Development,Male,1,No
+46,16872,Sales,Female,3,No
+28,3485,Research & Development,Male,4,Yes
+29,6644,Sales,Male,3,No
+31,5582,Research & Development,Male,3,No
+25,4000,Research & Development,Male,2,No
+45,13496,Research & Development,Male,2,No
+36,3210,Research & Development,Male,3,No
+55,19045,Research & Development,Male,3,No
+47,11849,Research & Development,Male,4,Yes
+28,2070,Research & Development,Male,3,No
+37,6502,Sales,Male,4,No
+21,3230,Research & Development,Male,2,No
+37,13603,Research & Development,Female,4,No
+35,11996,Research & Development,Female,3,No
+38,5605,Sales,Female,2,No
+26,6397,Research & Development,Female,3,No
+50,19144,Research & Development,Male,1,No
+53,17584,Research & Development,Male,4,No
+42,4907,Sales,Male,1,No
+29,4554,Sales,Male,2,No
+55,5415,Research & Development,Male,2,No
+26,4741,Research & Development,Male,2,No
+37,2115,Research & Development,Female,3,No
+44,3161,Research & Development,Male,3,Yes
+38,5745,Research & Development,Male,4,No
+26,2373,Research & Development,Male,4,Yes
+28,3310,Research & Development,Female,2,No
+49,18665,Research & Development,Female,4,No
+36,4485,Research & Development,Male,3,No
+31,2789,Sales,Female,3,No
+26,5828,Sales,Male,4,Yes
+37,2326,Research & Development,Male,3,No
+42,13525,Sales,Female,3,No
+18,1420,Research & Development,Male,3,Yes
+35,8020,Sales,Male,3,No
+36,3688,Research & Development,Male,4,No
+51,5482,Research & Development,Male,3,No
+41,16015,Sales,Male,4,No
+18,1200,Sales,Female,3,No
+28,5661,Research & Development,Male,2,No
+31,6929,Sales,Male,3,No
+39,9613,Research & Development,Male,3,No
+36,5674,Research & Development,Female,4,No
+32,5484,Sales,Male,3,No
+38,12061,Research & Development,Female,2,No
+58,5660,Research & Development,Male,4,No
+31,4821,Research & Development,Male,4,No
+31,6410,Human Resources,Male,3,No
+45,5210,Research & Development,Male,3,No
+31,2695,Research & Development,Male,4,No
+33,11878,Research & Development,Female,4,No
+39,17068,Research & Development,Male,1,No
+43,2455,Research & Development,Female,4,No
+49,13964,Research & Development,Female,2,No
+52,4941,Research & Development,Male,4,Yes
+27,2478,Research & Development,Female,3,No
+32,5228,Sales,Female,2,No
+27,4478,Sales,Male,3,No
+31,7547,Sales,Male,3,No
+32,5055,Research & Development,Female,4,No
+28,3464,Research & Development,Male,4,Yes
+30,5775,Research & Development,Female,2,No
+31,8943,Research & Development,Female,2,No
+39,19272,Research & Development,Male,2,No
+39,5238,Sales,Female,2,Yes
+33,4682,Sales,Male,3,No
+47,18300,Research & Development,Male,5,No
+43,5257,Research & Development,Female,4,No
+27,6349,Sales,Male,1,No
+54,4869,Research & Development,Female,4,No
+43,9985,Research & Development,Female,3,No
+45,3697,Research & Development,Male,4,No
+40,7457,Sales,Male,2,No
+29,2119,Research & Development,Male,4,Yes
+29,3983,Research & Development,Male,5,No
+30,6118,Sales,Female,3,No
+27,6214,Sales,Female,4,No
+37,6347,Research & Development,Male,2,No
+38,11510,Research & Development,Male,2,No
+31,7143,Research & Development,Female,4,No
+29,8268,Sales,Female,1,No
+35,8095,Research & Development,Male,4,No
+23,2904,Research & Development,Male,1,No
+41,6032,Research & Development,Male,3,No
+47,2976,Sales,Male,1,No
+42,15992,Research & Development,Female,5,No
+29,4649,Sales,Male,3,No
+42,2696,Human Resources,Male,1,No
+32,2370,Research & Development,Female,3,No
+48,12504,Sales,Female,1,No
+37,5974,Research & Development,Male,3,No
+30,4736,Sales,Female,2,No
+26,5296,Sales,Male,3,No
+42,6781,Research & Development,Male,4,No
+21,2174,Sales,Female,1,Yes
+36,6653,Sales,Female,5,No
+36,9699,Sales,Male,4,No
+57,6755,Research & Development,Male,4,No
+40,2213,Research & Development,Female,4,No
+21,2610,Sales,Male,2,No
+33,2851,Sales,Female,3,Yes
+37,3452,Research & Development,Female,3,No
+46,5258,Research & Development,Female,4,No
+41,9355,Sales,Male,3,Yes
+50,10496,Research & Development,Male,3,No
+40,6380,Sales,Male,2,Yes
+31,2657,Research & Development,Male,4,No
+21,2716,Sales,Female,3,Yes
+29,2201,Research & Development,Male,3,No
+35,6540,Research & Development,Male,4,No
+27,3816,Research & Development,Male,2,No
+28,5253,Sales,Male,4,No
+49,10965,Research & Development,Male,3,No
+51,4936,Sales,Female,2,No
+36,2543,Research & Development,Female,3,No
+34,5304,Sales,Male,3,Yes
+55,16659,Research & Development,Female,3,No
+24,4260,Sales,Female,4,No
+30,2476,Sales,Male,1,No
+26,3102,Research & Development,Male,1,Yes
+22,2244,Research & Development,Female,3,No
+36,7596,Sales,Male,2,No
+30,2285,Research & Development,Male,3,Yes
+37,3034,Research & Development,Female,3,No
+40,5715,Sales,Female,2,No
+42,2576,Research & Development,Female,4,No
+37,4197,Research & Development,Male,4,No
+43,14336,Research & Development,Male,3,No
+40,3448,Research & Development,Female,3,No
+54,19406,Research & Development,Male,2,No
+34,6538,Sales,Female,4,No
+31,4306,Research & Development,Female,2,No
+43,2258,Research & Development,Male,3,No
+43,4522,Research & Development,Female,4,No
+25,4487,Sales,Female,2,No
+37,4449,Research & Development,Female,5,No
+31,2218,Research & Development,Male,2,No
+39,19197,Research & Development,Male,1,No
+56,13212,Sales,Female,3,No
+30,6577,Sales,Female,3,No
+41,8392,Sales,Male,3,No
+28,4558,Research & Development,Male,2,No
+25,4031,Research & Development,Male,3,Yes
+52,7969,Research & Development,Male,3,No
+45,2654,Research & Development,Male,2,No
+52,16555,Research & Development,Female,2,No
+42,4556,Research & Development,Female,2,No
+30,6091,Research & Development,Female,3,No
+60,19566,Research & Development,Female,3,No
+46,4810,Research & Development,Female,3,No
+42,4523,Research & Development,Female,4,No
+24,3202,Sales,Female,1,Yes
+34,2351,Sales,Female,2,Yes
+38,1702,Research & Development,Male,2,No
+40,18041,Sales,Female,4,No
+26,2886,Research & Development,Female,3,No
+30,2097,Research & Development,Male,3,No
+29,11935,Research & Development,Male,4,No
+29,2546,Research & Development,Female,5,Yes
+19,2564,Human Resources,Male,2,Yes
+30,8412,Sales,Female,4,No
+57,14118,Sales,Male,3,No
+50,17046,Research & Development,Male,4,No
+30,2564,Research & Development,Female,3,No
+60,10266,Sales,Female,3,No
+47,5070,Research & Development,Female,2,No
+46,17861,Research & Development,Male,3,No
+35,4230,Research & Development,Male,3,No
+54,3780,Research & Development,Female,4,No
+34,2768,Research & Development,Male,4,No
+46,9071,Sales,Female,3,No
+31,10648,Research & Development,Male,1,No
+33,13610,Research & Development,Male,1,Yes
+33,3408,Research & Development,Male,1,Yes
+30,2983,Sales,Male,1,No
+35,7632,Research & Development,Male,3,No
+31,9824,Research & Development,Male,3,Yes
+34,9950,Human Resources,Female,3,Yes
+42,2093,Research & Development,Male,2,No
+36,9980,Sales,Male,4,No
+22,3894,Research & Development,Male,1,Yes
+48,4051,Sales,Female,5,No
+55,16835,Sales,Female,5,No
+41,6230,Sales,Male,2,No
+35,4717,Sales,Male,3,No
+40,13237,Research & Development,Female,3,No
+39,3755,Research & Development,Female,1,No
+31,6582,Sales,Male,1,No
+42,7406,Research & Development,Male,3,No
+45,4805,Sales,Male,3,No
+26,2741,Human Resources,Female,4,Yes
+29,4262,Research & Development,Male,3,No
+33,16184,Research & Development,Female,5,No
+31,11557,Sales,Male,3,No
+18,1878,Sales,Male,3,Yes
+40,10932,Sales,Male,3,No
+41,6811,Research & Development,Female,4,No
+26,4306,Sales,Male,2,No
+35,4859,Sales,Female,3,No
+34,5337,Sales,Male,4,No
+26,2340,Research & Development,Male,3,Yes
+37,7491,Research & Development,Female,3,No
+46,10527,Research & Development,Female,1,No
+41,16595,Sales,Female,5,No
+37,8834,Sales,Male,4,No
+52,5577,Research & Development,Male,2,No
+32,4707,Sales,Male,4,Yes
+24,2400,Sales,Male,3,No
+38,9824,Research & Development,Female,3,No
+37,6447,Research & Development,Female,4,No
+49,19502,Research & Development,Male,4,No
+24,2725,Research & Development,Male,3,No
+26,6272,Sales,Male,2,No
+24,2127,Research & Development,Male,2,No
+50,18200,Human Resources,Male,3,No
+25,2096,Sales,Male,1,No
+24,2886,Research & Development,Female,3,Yes
+30,2033,Sales,Male,4,Yes
+34,3622,Research & Development,Male,2,No
+31,4233,Sales,Male,4,Yes
+35,3681,Research & Development,Male,2,No
+31,5460,Sales,Male,4,No
+27,2187,Research & Development,Female,4,No
+37,9602,Sales,Male,3,No
+20,2836,Research & Development,Female,3,No
+42,4089,Research & Development,Female,4,No
+43,16627,Research & Development,Male,4,No
+38,2619,Research & Development,Female,1,No
+43,5679,Research & Development,Male,5,No
+48,15402,Research & Development,Female,4,No
+44,5985,Human Resources,Female,4,No
+34,2579,Sales,Female,3,No
+27,3041,Sales,Male,1,Yes
+21,3447,Sales,Male,1,No
+44,19513,Research & Development,Male,4,No
+22,2773,Research & Development,Male,1,No
+33,7104,Sales,Male,4,No
+32,6322,Research & Development,Female,4,No
+30,2083,Research & Development,Female,3,No
+53,8381,Sales,Female,1,No
+34,2691,Research & Development,Male,5,No
+45,4286,Sales,Female,4,Yes
+26,2659,Research & Development,Female,3,No
+37,9434,Research & Development,Male,3,No
+29,5561,Sales,Female,2,No
+35,6646,Research & Development,Male,4,No
+33,7725,Research & Development,Male,3,No
+54,10725,Human Resources,Male,4,No
+36,8847,Research & Development,Male,2,No
+27,2045,Research & Development,Male,4,No
+20,1009,Research & Development,Male,1,Yes
+33,3348,Research & Development,Male,3,Yes
+35,1281,Research & Development,Male,3,No
+23,2819,Research & Development,Male,3,No
+25,4851,Sales,Male,3,No
+38,4028,Sales,Female,4,No
+29,2720,Research & Development,Male,4,No
+48,8120,Sales,Male,1,No
+27,4647,Sales,Female,1,No
+37,4680,Research & Development,Male,2,No
+50,3221,Research & Development,Male,1,No
+34,8621,Research & Development,Female,3,No
+24,4577,Sales,Female,2,Yes
+39,4553,Research & Development,Female,4,No
+32,5396,Sales,Male,3,No
+50,6796,Sales,Male,2,Yes
+38,7625,Research & Development,Female,4,No
+27,7412,Research & Development,Female,2,No
+32,11159,Research & Development,Female,2,No
+47,4960,Sales,Male,4,No
+40,10475,Sales,Male,4,No
+53,14814,Research & Development,Male,3,No
+41,19141,Human Resources,Male,4,No
+60,5405,Sales,Male,4,No
+27,8793,Research & Development,Male,2,No
+41,19189,Human Resources,Male,3,No
+50,3875,Sales,Male,4,No
+28,2216,Research & Development,Female,2,Yes
+36,11713,Research & Development,Female,3,No
+38,7861,Research & Development,Female,3,No
+44,3708,Research & Development,Male,3,No
+47,13770,Sales,Female,3,No
+30,5304,Sales,Male,5,No
+29,2642,Sales,Male,3,No
+42,2759,Research & Development,Male,3,Yes
+43,6804,Sales,Male,3,No
+34,6142,Research & Development,Female,2,No
+23,2500,Research & Development,Male,1,No
+39,6389,Human Resources,Female,3,No
+56,11103,Research & Development,Male,3,No
+40,2342,Research & Development,Female,1,No
+27,6811,Research & Development,Female,3,No
+29,2297,Sales,Male,3,No
+53,2450,Research & Development,Male,3,No
+35,5093,Research & Development,Female,4,No
+32,5309,Research & Development,Male,4,No
+38,3057,Research & Development,Male,5,No
+34,5121,Research & Development,Female,5,No
+52,16856,Sales,Male,4,No
+33,2686,Research & Development,Male,4,Yes
+25,6180,Sales,Female,1,No
+45,6632,Sales,Male,2,No
+23,3505,Research & Development,Male,1,No
+47,6397,Sales,Female,2,Yes
+34,6274,Sales,Male,3,No
+55,19859,Research & Development,Male,3,Yes
+36,7587,Sales,Male,4,No
+52,4258,Research & Development,Male,4,No
+26,4364,Research & Development,Female,2,No
+29,4335,Research & Development,Female,3,No
+26,5326,Sales,Male,3,Yes
+34,3280,Research & Development,Female,4,No
+54,5485,Research & Development,Female,4,No
+27,4342,Sales,Male,1,No
+37,2782,Research & Development,Female,1,No
+38,5980,Research & Development,Female,4,No
+34,4381,Research & Development,Female,4,No
+35,2572,Sales,Female,4,No
+30,3833,Research & Development,Male,3,No
+40,4244,Research & Development,Female,2,No
+34,6500,Sales,Female,2,No
+42,18430,Research & Development,Male,3,No
+23,1601,Research & Development,Male,3,Yes
+24,2694,Research & Development,Male,3,No
+52,3149,Research & Development,Female,4,No
+50,17639,Research & Development,Male,3,No
+29,2319,Research & Development,Female,2,Yes
+33,11691,Research & Development,Male,3,No
+33,5324,Sales,Female,3,Yes
+47,16752,Research & Development,Female,2,No
+36,5228,Research & Development,Female,3,No
+29,2700,Research & Development,Male,2,No
+58,19246,Research & Development,Male,4,Yes
+35,2506,Research & Development,Female,4,No
+42,6062,Research & Development,Female,2,No
+28,4382,Research & Development,Male,4,Yes
+36,2143,Human Resources,Male,3,No
+32,6162,Research & Development,Female,3,No
+40,5094,Research & Development,Male,4,No
+30,6877,Research & Development,Female,3,No
+45,2274,Research & Development,Female,3,No
+42,4434,Research & Development,Male,3,No
+38,6288,Research & Development,Male,3,No
+34,2553,Research & Development,Female,4,No
+49,7654,Sales,Female,3,Yes
+55,5160,Sales,Male,1,Yes
+43,17159,Research & Development,Male,2,No
+27,12808,Research & Development,Male,1,No
+35,10221,Research & Development,Male,3,No
+28,4779,Sales,Female,4,No
+34,3737,Human Resources,Male,2,No
+26,2366,Research & Development,Female,2,Yes
+27,1706,Research & Development,Male,3,No
+51,16307,Sales,Female,4,No
+44,5933,Research & Development,Male,3,No
+25,3424,Research & Development,Male,1,No
+33,4037,Sales,Male,3,No
+35,2559,Research & Development,Female,1,No
+36,6201,Sales,Male,2,No
+32,4403,Sales,Male,4,No
+30,3761,Research & Development,Male,4,No
+53,10934,Sales,Female,2,No
+45,10761,Sales,Male,3,No
+32,5175,Research & Development,Female,2,No
+52,13826,Research & Development,Female,4,No
+37,6334,Sales,Male,4,No
+28,4936,Human Resources,Male,2,No
+22,4775,Research & Development,Male,2,No
+44,2818,Research & Development,Male,4,No
+42,2515,Research & Development,Male,1,No
+36,2342,Human Resources,Male,3,No
+25,4194,Sales,Male,1,No
+35,10685,Research & Development,Female,3,No
+35,2022,Research & Development,Female,4,Yes
+32,2314,Research & Development,Male,3,No
+25,4256,Sales,Male,1,No
+49,3580,Research & Development,Female,3,No
+24,3162,Research & Development,Male,1,No
+32,6524,Sales,Male,2,No
+38,2899,Sales,Male,3,No
+42,5231,Research & Development,Female,3,No
+31,2356,Research & Development,Male,4,No
+29,2800,Sales,Female,3,Yes
+53,11836,Sales,Male,3,No
+35,10903,Research & Development,Male,3,No
+37,2973,Sales,Female,2,No
+53,14275,Research & Development,Female,4,No
+43,5562,Research & Development,Female,3,No
+47,4537,Sales,Female,2,No
+37,7642,Sales,Male,2,No
+50,17924,Research & Development,Male,4,No
+39,5204,Human Resources,Female,3,No
+33,2277,Human Resources,Male,2,No
+32,2795,Research & Development,Male,4,Yes
+29,2532,Research & Development,Female,1,No
+44,2559,Research & Development,Male,2,No
+28,4908,Sales,Male,4,No
+58,2380,Research & Development,Male,1,Yes
+43,4765,Research & Development,Female,3,No
+20,2044,Sales,Female,3,Yes
+21,2693,Research & Development,Female,1,Yes
+36,6586,Research & Development,Male,1,No
+47,3294,Sales,Female,4,No
+22,4171,Research & Development,Female,1,Yes
+41,2778,Research & Development,Female,4,Yes
+28,2377,Research & Development,Female,3,No
+39,2404,Research & Development,Male,3,Yes
+27,2318,Research & Development,Female,3,No
+34,2008,Research & Development,Male,3,No
+42,6244,Sales,Female,2,No
+33,2799,Research & Development,Male,4,No
+58,10552,Research & Development,Female,3,No
+31,2329,Sales,Male,4,No
+35,4014,Research & Development,Female,1,No
+49,7403,Research & Development,Female,2,No
+48,2259,Research & Development,Male,4,No
+31,6932,Sales,Female,2,No
+36,4678,Research & Development,Male,4,No
+38,13582,Research & Development,Female,3,No
+32,2332,Research & Development,Female,3,No
+25,2413,Sales,Male,2,Yes
+40,9705,Sales,Male,4,No
+26,4294,Sales,Male,3,No
+41,4721,Research & Development,Male,3,No
+36,2519,Research & Development,Male,4,No
+19,2121,Sales,Male,3,Yes
+20,2973,Research & Development,Male,3,Yes
+31,5855,Research & Development,Female,3,No
+40,3617,Research & Development,Male,4,No
+32,6725,Research & Development,Female,4,No
+36,10325,Sales,Male,1,Yes
+33,6949,Research & Development,Female,3,No
+37,10609,Sales,Male,4,Yes
+45,4447,Research & Development,Male,2,No
+29,2157,Sales,Female,3,No
+35,4601,Sales,Female,3,No
+52,17099,Research & Development,Male,2,No
+58,2479,Research & Development,Male,3,Yes
+53,14852,Sales,Male,2,No
+30,7264,Sales,Male,2,No
+38,5666,Sales,Female,3,No
+35,7823,Sales,Male,4,No
+39,7880,Sales,Male,5,No
+40,13194,Sales,Female,3,Yes
+47,5067,Research & Development,Male,4,No
+36,5079,Sales,Male,4,No
+31,2321,Research & Development,Male,2,Yes
+33,17444,Sales,Male,3,No
+29,2404,Research & Development,Female,3,Yes
+33,3452,Research & Development,Female,1,No
+45,2270,Research & Development,Female,4,No
+50,17399,Research & Development,Male,2,No
+33,5488,Research & Development,Female,4,No
+41,19419,Research & Development,Male,3,No
+27,2811,Research & Development,Female,4,No
+45,3633,Research & Development,Male,2,No
+47,4163,Sales,Female,2,No
+30,2132,Research & Development,Female,3,Yes
+50,13973,Research & Development,Male,3,No
+38,2684,Research & Development,Male,1,No
+46,10845,Research & Development,Male,2,No
+24,4377,Research & Development,Female,1,No
+35,3743,Research & Development,Male,4,Yes
+31,4148,Research & Development,Female,1,No
+18,1051,Research & Development,Male,2,No
+54,10739,Research & Development,Female,3,No
+35,10388,Research & Development,Female,4,No
+30,11416,Research & Development,Female,2,No
+20,2600,Research & Development,Female,3,Yes
+30,2422,Research & Development,Female,3,Yes
+26,5472,Research & Development,Male,2,No
+22,2451,Research & Development,Male,1,No
+48,4240,Research & Development,Male,3,No
+48,10999,Research & Development,Male,4,No
+41,5003,Research & Development,Female,2,No
+39,12742,Research & Development,Female,1,No
+27,4227,Research & Development,Female,4,No
+35,3917,Research & Development,Male,3,No
+42,18303,Sales,Male,2,No
+50,2380,Research & Development,Male,3,No
+59,13726,Research & Development,Female,3,No
+37,4777,Research & Development,Female,2,Yes
+55,6385,Research & Development,Male,4,No
+41,19973,Research & Development,Female,1,No
+38,6861,Sales,Male,4,No
+26,4969,Sales,Male,2,Yes
+52,19845,Sales,Female,1,Yes
+44,13320,Sales,Female,3,No
+50,6347,Sales,Female,3,No
+36,2743,Research & Development,Female,4,Yes
+39,10880,Research & Development,Female,3,No
+33,2342,Sales,Female,1,No
+45,17650,Sales,Female,2,No
+32,4025,Research & Development,Female,4,No
+34,9725,Sales,Male,4,No
+59,11904,Sales,Male,2,No
+45,2177,Human Resources,Male,4,No
+53,7525,Sales,Female,3,No
+36,4834,Research & Development,Male,3,Yes
+26,2042,Research & Development,Male,3,Yes
+34,2220,Sales,Female,4,No
+28,1052,Sales,Male,1,No
+38,2821,Research & Development,Male,4,No
+50,19237,Research & Development,Male,4,No
+37,4107,Research & Development,Female,3,No
+40,8396,Sales,Male,3,No
+26,2007,Research & Development,Female,1,No
+46,19627,Research & Development,Male,4,No
+54,10686,Sales,Female,4,No
+56,2942,Research & Development,Female,3,No
+36,8858,Research & Development,Female,5,No
+55,16756,Research & Development,Male,1,No
+43,10798,Sales,Male,3,No
+20,2323,Sales,Female,3,Yes
+21,1416,Research & Development,Female,3,Yes
+46,4615,Research & Development,Female,4,No
+51,2461,Research & Development,Male,4,Yes
+28,8722,Research & Development,Male,2,Yes
+26,3955,Research & Development,Male,2,No
+30,9957,Research & Development,Male,3,No
+41,3376,Research & Development,Female,2,No
+38,8823,Research & Development,Female,1,No
+40,10322,Research & Development,Male,4,No
+27,4621,Research & Development,Male,5,No
+55,10976,Research & Development,Male,1,No
+28,3660,Research & Development,Female,3,No
+44,10482,Human Resources,Male,2,Yes
+33,7119,Research & Development,Male,3,No
+35,9582,Sales,Male,3,Yes
+33,4508,Research & Development,Female,4,Yes
+28,2207,Research & Development,Male,2,No
+34,7756,Research & Development,Male,1,No
+37,6694,Sales,Female,4,No
+25,3691,Research & Development,Male,1,Yes
+26,2377,Research & Development,Male,3,Yes
+33,2313,Research & Development,Male,3,Yes
+42,17665,Research & Development,Male,2,No
+28,2596,Research & Development,Male,3,Yes
+50,4728,Sales,Male,4,Yes
+33,4302,Sales,Female,3,No
+34,2979,Research & Development,Male,4,No
+48,16885,Research & Development,Male,4,No
+45,5593,Sales,Female,4,No
+52,10445,Research & Development,Male,4,No
+38,8740,Sales,Male,4,No
+29,2514,Research & Development,Female,4,No
+28,7655,Research & Development,Female,3,No
+46,17465,Sales,Male,1,No
+38,7351,Sales,Male,2,No
+43,10820,Research & Development,Female,3,No
+39,12169,Research & Development,Male,3,Yes
+40,19626,Research & Development,Male,3,No
+21,2070,Research & Development,Female,1,No
+39,6782,Research & Development,Male,3,No
+36,7779,Research & Development,Male,4,No
+31,2791,Sales,Male,3,No
+28,3201,Research & Development,Male,1,No
+35,4968,Sales,Male,2,No
+49,13120,Sales,Male,4,No
+34,4033,Research & Development,Male,2,No
+29,3291,Research & Development,Female,3,No
+42,4272,Research & Development,Male,3,No
+29,5056,Research & Development,Male,1,No
+38,2844,Human Resources,Male,3,No
+28,2703,Research & Development,Male,3,No
+18,1904,Research & Development,Male,1,Yes
+33,8224,Sales,Female,4,Yes
+41,4766,Research & Development,Male,4,No
+31,2610,Research & Development,Male,3,Yes
+37,5731,Research & Development,Female,2,No
+27,2539,Research & Development,Male,3,No
+34,5714,Sales,Female,1,No
+35,4323,Human Resources,Male,4,No
+29,7336,Sales,Female,1,Yes
+40,13499,Research & Development,Female,4,No
+42,13758,Sales,Male,3,Yes
+42,5155,Sales,Male,4,No
+35,2258,Research & Development,Male,4,No
+24,3597,Research & Development,Male,3,No
+28,2515,Research & Development,Female,1,Yes
+26,4420,Research & Development,Male,4,No
+30,6578,Sales,Male,3,No
+40,4422,Research & Development,Female,2,No
+35,10274,Research & Development,Male,3,No
+34,5343,Research & Development,Male,3,No
+35,2376,Research & Development,Male,4,No
+43,5346,Sales,Female,3,Yes
+32,2827,Sales,Female,1,No
+56,19943,Research & Development,Female,4,No
+29,3131,Research & Development,Female,1,No
+19,2552,Research & Development,Male,2,No
+45,4477,Research & Development,Female,3,No
+37,6474,Research & Development,Female,3,No
+20,3033,Research & Development,Male,3,No
+44,2936,Research & Development,Male,4,Yes
+53,18606,Research & Development,Female,2,No
+29,2168,Research & Development,Female,1,No
+22,2853,Research & Development,Male,4,Yes
+46,17048,Sales,Female,3,No
+44,2290,Research & Development,Male,3,No
+33,3600,Human Resources,Male,3,No
+41,2107,Research & Development,Male,2,Yes
+30,4115,Sales,Male,4,No
+40,4327,Sales,Male,4,No
+50,17856,Research & Development,Female,3,No
+28,3196,Research & Development,Male,4,No
+46,19081,Research & Development,Male,2,No
+35,8966,Sales,Male,4,No
+24,2210,Research & Development,Female,2,Yes
+33,4539,Sales,Female,3,No
+36,2741,Research & Development,Male,4,No
+30,3491,Research & Development,Male,4,No
+44,4541,Research & Development,Male,4,No
+20,2678,Sales,Male,3,No
+46,7379,Research & Development,Male,4,No
+42,6272,Human Resources,Male,5,No
+60,5220,Sales,Male,4,No
+32,2743,Research & Development,Female,3,No
+32,4998,Research & Development,Female,2,No
+36,10252,Research & Development,Female,3,No
+33,2781,Research & Development,Male,3,No
+40,6852,Sales,Female,3,No
+25,4950,Sales,Male,4,No
+30,3579,Research & Development,Male,3,No
+42,13191,Research & Development,Female,5,No
+35,10377,Sales,Female,2,No
+27,2235,Research & Development,Male,3,No
+54,10502,Research & Development,Female,4,No
+44,2011,Research & Development,Female,1,No
+19,1859,Research & Development,Female,3,Yes
+29,3760,Research & Development,Female,3,No
+54,17779,Research & Development,Male,3,No
+31,6833,Research & Development,Male,2,No
+31,6812,Research & Development,Female,3,No
+59,5171,Sales,Female,3,No
+43,19740,Research & Development,Male,3,No
+49,18711,Research & Development,Male,2,No
+36,3692,Research & Development,Male,3,No
+48,2559,Research & Development,Male,2,No
+27,2517,Research & Development,Male,2,No
+29,6623,Research & Development,Male,3,No
+48,18265,Research & Development,Male,3,No
+29,16124,Research & Development,Female,3,No
+34,2585,Research & Development,Female,3,No
+44,18213,Sales,Male,3,No
+33,8380,Sales,Male,5,No
+19,2994,Research & Development,Female,3,No
+23,1223,Research & Development,Male,2,No
+25,1118,Sales,Male,1,Yes
+26,2875,Research & Development,Male,2,No
+45,18824,Sales,Female,3,Yes
+55,13577,Research & Development,Male,1,No
+21,2625,Research & Development,Female,2,Yes
+46,18789,Sales,Female,2,No
+34,4538,Sales,Female,3,No
+51,19847,Sales,Male,3,No
+59,10512,Research & Development,Male,4,No
+34,4444,Research & Development,Female,3,No
+28,2154,Research & Development,Male,4,No
+44,19190,Research & Development,Male,2,No
+34,4490,Human Resources,Male,3,No
+35,3506,Research & Development,Male,1,No
+42,2372,Research & Development,Female,4,No
+43,10231,Sales,Female,4,No
+36,5410,Research & Development,Female,4,No
+44,7978,Research & Development,Female,3,Yes
+28,3867,Research & Development,Male,3,No
+51,2838,Research & Development,Female,2,No
+30,4695,Research & Development,Female,2,No
+29,3339,Research & Development,Female,3,Yes
+28,2080,Research & Development,Male,3,No
+25,2096,Research & Development,Female,3,No
+32,6209,Sales,Male,3,No
+45,18061,Research & Development,Female,3,No
+39,17123,Research & Development,Female,4,No
+58,2372,Research & Development,Male,4,No
+32,4883,Research & Development,Male,2,Yes
+39,3904,Research & Development,Male,3,Yes
+30,4627,Research & Development,Female,3,No
+36,7094,Research & Development,Female,4,No
+46,3423,Human Resources,Female,2,No
+28,6674,Research & Development,Female,3,No
+50,16880,Research & Development,Female,3,No
+40,9094,Sales,Male,4,Yes
+52,8446,Sales,Male,3,Yes
+30,11916,Research & Development,Female,4,No
+39,4534,Research & Development,Male,2,No
+31,9852,Sales,Female,4,No
+41,6151,Sales,Male,2,No
+31,2302,Sales,Female,3,Yes
+44,2362,Research & Development,Male,3,Yes
+42,17861,Research & Development,Male,1,No
+55,19187,Research & Development,Female,2,No
+56,19717,Human Resources,Male,4,No
+40,3544,Research & Development,Male,2,No
+34,8500,Research & Development,Male,3,No
+40,4661,Research & Development,Male,3,No
+41,4103,Sales,Female,3,No
+35,4249,Research & Development,Male,4,No
+51,14026,Human Resources,Male,3,No
+38,6893,Sales,Female,2,No
+34,6125,Sales,Female,2,No
+25,3669,Research & Development,Male,1,No
+58,10008,Research & Development,Female,4,Yes
+40,2387,Research & Development,Male,4,No
+36,4639,Sales,Female,3,No
+48,7898,Research & Development,Male,3,No
+27,2534,Sales,Female,3,No
+51,13142,Research & Development,Female,2,No
+18,1611,Research & Development,Female,3,No
+35,5363,Research & Development,Female,3,No
+27,5071,Sales,Male,1,No
+55,13695,Sales,Male,4,Yes
+56,13402,Research & Development,Male,3,No
+34,2029,Research & Development,Female,1,No
+40,6377,Research & Development,Female,1,No
+34,5429,Research & Development,Male,3,No
+31,2785,Sales,Female,3,Yes
+35,4614,Sales,Female,4,Yes
+38,2610,Research & Development,Male,3,No
+34,6687,Research & Development,Female,4,No
+28,4724,Sales,Male,3,No
+31,6179,Research & Development,Male,4,Yes
+39,6120,Sales,Male,4,No
+51,10596,Sales,Male,3,No
+41,5467,Research & Development,Female,3,No
+37,2996,Research & Development,Male,1,No
+33,9998,Sales,Male,1,No
+32,4078,Sales,Male,1,No
+39,10920,Research & Development,Male,2,No
+25,6232,Sales,Male,1,No
+52,13247,Research & Development,Female,2,No
+43,4081,Research & Development,Female,3,No
+27,5769,Sales,Female,3,No
+27,2394,Research & Development,Female,4,Yes
+26,3904,Research & Development,Male,1,No
+42,16799,Human Resources,Female,3,No
+52,2950,Research & Development,Female,4,No
+37,3629,Research & Development,Female,3,No
+35,9362,Research & Development,Male,2,No
+25,3229,Research & Development,Male,3,No
+26,3578,Research & Development,Male,3,No
+29,7988,Human Resources,Male,3,No
+49,4284,Research & Development,Male,2,Yes
+29,7553,Research & Development,Female,1,Yes
+54,17328,Research & Development,Female,3,No
+58,19701,Research & Development,Female,3,No
+55,14732,Research & Development,Male,4,No
+36,9278,Sales,Female,4,No
+31,1359,Sales,Female,4,Yes
+30,4779,Sales,Female,4,No
+31,16422,Research & Development,Female,5,No
+34,2996,Research & Development,Male,4,No
+31,1261,Research & Development,Female,3,Yes
+27,2099,Research & Development,Male,1,No
+36,5810,Research & Development,Male,4,No
+36,5647,Sales,Female,4,No
+47,3420,Research & Development,Male,3,No
+25,4400,Sales,Male,2,Yes
+37,3500,Research & Development,Male,2,No
+56,2066,Research & Development,Female,2,No
+47,17169,Research & Development,Female,4,No
+24,4162,Sales,Female,1,No
+32,9204,Sales,Male,5,No
+34,3294,Research & Development,Female,3,No
+41,2127,Research & Development,Male,5,No
+40,3975,Research & Development,Male,4,No
+31,10793,Sales,Male,2,No
+46,10096,Sales,Male,3,Yes
+39,3646,Research & Development,Female,3,Yes
+31,7446,Research & Development,Female,5,Yes
+45,10851,Research & Development,Male,3,No
+31,2109,Human Resources,Female,2,No
+31,3722,Research & Development,Male,3,Yes
+45,9380,Research & Development,Male,3,No
+48,5486,Sales,Male,3,No
+34,2742,Human Resources,Female,4,Yes
+40,13757,Research & Development,Male,1,No
+28,8463,Sales,Male,3,No
+44,3162,Research & Development,Male,3,No
+53,16598,Research & Development,Male,3,No
+49,6651,Research & Development,Male,4,No
+40,2345,Research & Development,Male,3,No
+44,3420,Research & Development,Male,3,No
+33,4373,Sales,Male,3,No
+34,4759,Sales,Male,3,No
+30,5301,Sales,Male,1,No
+42,3673,Research & Development,Female,2,No
+44,4768,Sales,Female,5,No
+30,1274,Research & Development,Male,3,No
+57,4900,Research & Development,Male,2,No
+49,10466,Research & Development,Male,4,No
+34,17007,Research & Development,Male,3,No
+28,2909,Sales,Male,3,Yes
+29,5765,Sales,Female,3,Yes
+34,4599,Sales,Female,4,Yes
+35,2404,Sales,Male,1,No
+24,3172,Research & Development,Male,3,Yes
+24,2033,Sales,Female,2,No
+44,10209,Research & Development,Male,1,No
+29,8620,Sales,Male,3,No
+30,2064,Human Resources,Male,3,No
+55,4035,Research & Development,Male,4,No
+33,3838,Research & Development,Female,4,No
+47,4591,Sales,Female,3,No
+28,2561,Research & Development,Male,2,Yes
+28,1563,Research & Development,Male,3,No
+28,4898,Sales,Male,3,No
+49,4789,Research & Development,Female,2,No
+29,3180,Research & Development,Female,1,No
+28,6549,Research & Development,Male,1,No
+33,6388,Research & Development,Male,5,No
+32,11244,Research & Development,Male,3,No
+54,16032,Research & Development,Female,4,No
+29,2362,Research & Development,Male,4,Yes
+44,16328,Research & Development,Male,3,No
+39,8376,Research & Development,Female,3,No
+46,16606,Sales,Female,3,No
+35,8606,Research & Development,Female,3,No
+23,2272,Research & Development,Male,1,No
+40,2018,Research & Development,Male,4,Yes
+34,7083,Sales,Male,3,No
+31,4084,Research & Development,Female,3,Yes
+50,14411,Research & Development,Male,5,No
+34,2308,Sales,Male,2,No
+42,4841,Research & Development,Male,3,No
+37,4285,Research & Development,Male,3,No
+29,9715,Research & Development,Female,1,No
+33,4320,Research & Development,Male,3,No
+45,2132,Research & Development,Male,3,No
+42,10124,Research & Development,Male,3,No
+40,5473,Sales,Male,2,No
+33,5207,Research & Development,Male,4,No
+40,16437,Human Resources,Male,2,No
+24,2296,Research & Development,Male,2,No
+40,4069,Research & Development,Male,2,No
+45,7441,Research & Development,Male,4,No
+35,2430,Sales,Female,4,No
+32,5878,Research & Development,Female,2,No
+36,2644,Sales,Male,4,No
+48,6439,Sales,Female,4,No
+29,2451,Research & Development,Male,3,No
+33,6392,Sales,Male,4,No
+30,9714,Sales,Male,3,Yes
+38,6077,Human Resources,Male,4,No
+35,2450,Research & Development,Male,3,No
+30,9250,Sales,Male,4,No
+35,2074,Research & Development,Female,3,Yes
+53,10169,Research & Development,Female,5,Yes
+38,4855,Research & Development,Male,3,Yes
+32,4087,Research & Development,Male,4,No
+48,2367,Research & Development,Female,4,No
+34,2972,Research & Development,Male,4,No
+55,19586,Sales,Male,5,No
+34,5484,Research & Development,Male,4,No
+26,2061,Research & Development,Female,3,No
+38,9924,Sales,Male,3,No
+38,4198,Sales,Female,3,No
+36,6815,Sales,Female,4,No
+29,4723,Research & Development,Male,1,No
+35,6142,Research & Development,Female,4,No
+39,8237,Sales,Male,3,No
+29,8853,Research & Development,Male,1,No
+50,19331,Sales,Male,3,No
+23,2073,Research & Development,Male,3,No
+36,5562,Research & Development,Male,4,No
+42,19613,Research & Development,Male,2,No
+35,3407,Research & Development,Male,3,No
+34,5063,Research & Development,Male,4,No
+40,4639,Sales,Female,2,No
+43,4876,Research & Development,Male,3,No
+35,2690,Research & Development,Male,2,No
+46,17567,Sales,Male,4,No
+28,2408,Research & Development,Male,3,Yes
+22,2814,Research & Development,Female,2,No
+50,11245,Research & Development,Male,5,No
+32,3312,Research & Development,Female,4,No
+44,19049,Research & Development,Female,3,No
+30,2141,Research & Development,Male,3,No
+45,5769,Research & Development,Female,5,No
+45,4385,Sales,Male,3,No
+31,5332,Sales,Male,4,No
+36,4663,Research & Development,Female,4,No
+34,4724,Research & Development,Male,4,No
+49,3211,Research & Development,Female,4,No
+39,5377,Research & Development,Male,5,No
+27,4066,Research & Development,Male,3,No
+35,5208,Research & Development,Male,5,No
+28,4877,Research & Development,Female,3,No
+21,3117,Research & Development,Male,1,No
+18,1569,Sales,Female,2,Yes
+47,19658,Human Resources,Female,4,No
+39,3069,Research & Development,Male,2,No
+40,10435,Research & Development,Female,3,No
+35,4148,Research & Development,Female,4,No
+37,5768,Research & Development,Male,3,No
+39,5042,Research & Development,Female,3,No
+45,5770,Research & Development,Female,2,No
+38,7756,Research & Development,Female,2,No
+35,10306,Sales,Male,3,Yes
+37,3936,Research & Development,Female,3,No
+40,7945,Research & Development,Female,3,No
+44,5743,Human Resources,Male,5,No
+48,15202,Research & Development,Male,5,No
+35,5440,Sales,Male,2,Yes
+24,3760,Research & Development,Female,1,No
+27,3517,Research & Development,Female,3,No
+27,2580,Research & Development,Male,3,No
+40,2166,Research & Development,Male,3,Yes
+29,5869,Sales,Male,3,No
+36,8008,Research & Development,Female,4,No
+25,5206,Research & Development,Male,1,No
+39,5295,Research & Development,Male,3,No
+49,16413,Research & Development,Female,4,No
+50,13269,Research & Development,Female,5,No
+20,2783,Sales,Female,3,No
+34,5433,Research & Development,Female,3,No
+36,2013,Research & Development,Male,3,No
+49,13966,Research & Development,Female,1,No
+36,4374,Research & Development,Female,4,No
+36,6842,Research & Development,Male,2,No
+54,17426,Research & Development,Female,5,No
+43,17603,Research & Development,Male,2,No
+35,4581,Sales,Male,4,Yes
+38,4735,Research & Development,Male,3,No
+29,4187,Sales,Male,3,No
+33,5505,Sales,Male,4,No
+32,5470,Research & Development,Male,3,No
+31,5476,Sales,Female,4,No
+49,2587,Research & Development,Female,3,No
+38,2440,Research & Development,Female,3,No
+47,15972,Sales,Female,4,No
+49,15379,Research & Development,Male,3,No
+41,7082,Sales,Male,2,No
+20,2728,Sales,Male,1,No
+33,5368,Sales,Female,3,No
+36,5347,Research & Development,Male,4,No
+44,3195,Human Resources,Female,3,No
+23,3989,Research & Development,Male,1,Yes
+38,3306,Research & Development,Female,2,No
+53,7005,Research & Development,Male,4,No
+48,2655,Sales,Female,2,Yes
+32,1393,Research & Development,Male,4,Yes
+26,2570,Research & Development,Male,3,No
+55,3537,Research & Development,Male,3,No
+34,3986,Research & Development,Male,2,No
+60,10883,Research & Development,Male,4,No
+33,2028,Research & Development,Male,3,No
+37,9525,Sales,Male,4,No
+34,2929,Research & Development,Female,3,No
+23,2275,Sales,Male,3,Yes
+44,7879,Research & Development,Female,3,No
+35,4930,Research & Development,Male,4,No
+43,7847,Sales,Male,3,No
+24,4401,Research & Development,Male,3,No
+41,9241,Sales,Male,3,No
+29,2974,Research & Development,Female,4,No
+36,4502,Sales,Female,4,No
+45,10748,Research & Development,Male,1,No
+24,1555,Human Resources,Male,1,Yes
+47,12936,Sales,Male,3,Yes
+26,2305,Research & Development,Male,4,No
+45,16704,Research & Development,Female,2,No
+32,3433,Research & Development,Male,3,No
+31,3477,Research & Development,Male,4,No
+41,6430,Human Resources,Male,3,No
+40,6516,Research & Development,Female,2,No
+24,3907,Research & Development,Male,1,No
+46,5562,Research & Development,Male,4,No
+35,6883,Research & Development,Male,4,No
+30,2862,Research & Development,Male,1,No
+47,4978,Sales,Male,4,No
+46,10368,Sales,Male,3,No
+36,6134,Sales,Male,5,Yes
+32,6735,Sales,Male,2,Yes
+23,3295,Research & Development,Female,1,No
+31,5238,Research & Development,Female,1,No
+39,6472,Research & Development,Male,3,No
+32,9610,Sales,Male,3,No
+40,19833,Sales,Male,4,No
+45,9756,Human Resources,Female,3,No
+30,4968,Research & Development,Female,4,No
+24,2145,Human Resources,Male,3,No
+30,2180,Human Resources,Female,3,Yes
+31,8346,Sales,Male,3,No
+27,3445,Research & Development,Female,3,No
+29,2760,Sales,Female,3,Yes
+29,6294,Research & Development,Male,3,No
+30,7140,Sales,Male,2,No
+34,2932,Research & Development,Male,4,No
+33,5147,Sales,Female,3,No
+49,4507,Sales,Female,4,No
+33,8564,Sales,Female,3,Yes
+38,2468,Research & Development,Female,2,No
+31,8161,Sales,Male,4,Yes
+29,2109,Research & Development,Female,3,No
+30,5294,Research & Development,Male,3,No
+32,2718,Research & Development,Male,4,No
+38,5811,Research & Development,Male,3,No
+43,2437,Research & Development,Male,3,Yes
+42,2766,Research & Development,Male,3,No
+55,19038,Research & Development,Male,3,No
+33,3055,Research & Development,Male,3,No
+41,2289,Research & Development,Male,4,No
+34,4001,Sales,Male,3,No
+53,12965,Research & Development,Female,4,No
+43,3539,Human Resources,Male,3,No
+34,6029,Sales,Female,2,No
+21,2679,Sales,Male,1,Yes
+38,3702,Research & Development,Female,2,No
+22,2398,Research & Development,Female,1,Yes
+31,5468,Sales,Female,4,No
+51,13116,Research & Development,Female,3,No
+37,4189,Sales,Male,2,No
+46,19328,Research & Development,Male,4,No
+36,8321,Research & Development,Male,3,No
+44,2342,Research & Development,Male,2,Yes
+37,4071,Human Resources,Male,2,No
+35,5813,Sales,Male,3,Yes
+33,3143,Research & Development,Male,4,No
+28,2044,Research & Development,Male,3,No
+39,13464,Research & Development,Male,1,No
+46,7991,Sales,Male,2,No
+40,3377,Research & Development,Female,2,No
+42,5538,Research & Development,Male,3,No
+35,5762,Research & Development,Male,2,No
+38,2592,Human Resources,Male,3,No
+34,5346,Research & Development,Male,4,Yes
+37,4213,Research & Development,Male,4,Yes
+39,4127,Sales,Male,3,No
+43,2438,Research & Development,Male,3,No
+41,6870,Research & Development,Male,3,No
+41,10447,Sales,Female,1,No
+30,9667,Research & Development,Female,3,No
+26,2148,Human Resources,Female,2,Yes
+46,8926,Research & Development,Female,2,Yes
+40,6513,Research & Development,Female,3,No
+34,6799,Sales,Male,2,No
+58,16291,Sales,Male,3,No
+35,2705,Research & Development,Male,4,No
+47,10333,Research & Development,Female,3,No
+40,4448,Research & Development,Female,3,No
+54,6854,Research & Development,Female,4,No
+31,9637,Sales,Female,4,No
+28,3591,Research & Development,Female,3,No
+38,5405,Sales,Female,4,No
+26,4684,Sales,Male,3,No
+58,15787,Research & Development,Male,4,No
+18,1514,Research & Development,Female,3,No
+31,2956,Human Resources,Male,5,Yes
+29,2335,Human Resources,Male,3,Yes
+45,5154,Sales,Female,4,No
+36,6962,Research & Development,Female,4,No
+43,5675,Sales,Male,4,No
+27,2379,Research & Development,Female,2,No
+29,3812,Research & Development,Male,1,No
+32,4648,Sales,Male,4,No
+42,2936,Research & Development,Male,4,No
+47,2105,Research & Development,Female,4,No
+46,8578,Research & Development,Male,2,No
+28,2706,Human Resources,Male,2,No
+29,6384,Research & Development,Male,1,No
+42,3968,Research & Development,Male,3,No
+32,9907,Sales,Male,4,Yes
+46,13225,Sales,Female,3,No
+27,3540,Sales,Female,1,No
+29,2804,Human Resources,Male,1,No
+43,19392,Research & Development,Female,3,No
+48,19665,Research & Development,Male,3,No
+29,2439,Research & Development,Male,2,Yes
+46,7314,Sales,Female,3,Yes
+27,4774,Research & Development,Female,3,No
+39,3902,Research & Development,Male,4,No
+55,2662,Research & Development,Male,4,No
+28,2856,Sales,Female,3,No
+30,1081,Sales,Male,3,Yes
+22,2472,Research & Development,Male,1,Yes
+36,5673,Sales,Female,4,No
+31,4197,Research & Development,Male,3,No
+34,9713,Sales,Male,3,No
+29,2062,Research & Development,Male,3,No
+37,4284,Research & Development,Male,4,No
+35,4788,Research & Development,Female,2,No
+45,5906,Research & Development,Female,2,No
+36,3886,Human Resources,Male,1,No
+40,16823,Research & Development,Male,4,No
+26,2933,Research & Development,Female,2,No
+27,6500,Sales,Female,2,No
+48,17174,Research & Development,Female,3,No
+44,5033,Research & Development,Male,4,No
+34,2307,Research & Development,Male,4,Yes
+56,2587,Research & Development,Male,2,Yes
+36,5507,Sales,Male,2,No
+41,4393,Sales,Female,3,No
+42,13348,Research & Development,Male,3,No
+31,6583,Sales,Female,2,No
+34,8103,Sales,Female,1,No
+31,3978,Research & Development,Female,3,No
+26,2544,Research & Development,Male,3,No
+45,5399,Research & Development,Male,4,No
+33,5487,Sales,Male,4,No
+28,6834,Sales,Male,2,No
+29,1091,Sales,Male,3,Yes
+39,5736,Sales,Female,4,No
+27,2226,Research & Development,Male,4,No
+34,5747,Research & Development,Male,4,No
+28,9854,Sales,Female,2,Yes
+47,5467,Research & Development,Male,4,No
+56,5380,Sales,Female,5,No
+39,5151,Research & Development,Male,2,No
+38,2133,Research & Development,Female,3,No
+58,17875,Sales,Female,3,No
+32,2432,Research & Development,Female,2,Yes
+38,4771,Research & Development,Male,2,No
+49,19161,Research & Development,Male,1,No
+42,5087,Sales,Male,4,No
+27,2863,Human Resources,Female,3,Yes
+35,5561,Sales,Male,4,No
+28,2144,Research & Development,Male,3,No
+31,3065,Research & Development,Male,2,No
+36,2810,Research & Development,Male,4,No
+34,9888,Sales,Male,3,No
+34,8628,Sales,Male,4,No
+26,2867,Research & Development,Male,3,No
+29,5373,Research & Development,Male,3,No
+32,6667,Research & Development,Female,4,No
+31,5003,Research & Development,Male,3,No
+28,2367,Research & Development,Male,3,Yes
+38,2858,Sales,Male,3,No
+35,5204,Sales,Female,4,No
+27,4105,Sales,Male,3,No
+32,9679,Research & Development,Male,4,No
+31,5617,Sales,Male,4,Yes
+53,10448,Sales,Male,4,Yes
+54,2897,Research & Development,Female,2,No
+33,5968,Research & Development,Male,2,No
+43,7510,Research & Development,Male,3,No
+38,2991,Human Resources,Male,4,No
+55,19636,Human Resources,Male,4,No
+31,1129,Research & Development,Female,1,No
+39,13341,Sales,Male,4,No
+42,4332,Research & Development,Male,2,No
+31,11031,Research & Development,Female,3,No
+54,4440,Research & Development,Female,3,No
+24,4617,Research & Development,Male,2,No
+23,2647,Research & Development,Male,2,No
+40,6323,Research & Development,Female,3,No
+40,5677,Sales,Female,2,No
+25,2187,Human Resources,Female,3,No
+30,3748,Research & Development,Male,2,No
+25,3977,Research & Development,Male,1,No
+47,8633,Research & Development,Male,3,No
+33,2008,Research & Development,Male,2,No
+38,4440,Sales,Male,4,No
+31,3067,Sales,Male,2,No
+38,5321,Research & Development,Male,4,No
+42,5410,Research & Development,Male,4,No
+41,2782,Research & Development,Male,3,No
+47,11957,Research & Development,Female,1,No
+35,2660,Research & Development,Male,4,No
+22,3375,Research & Development,Male,2,No
+35,5098,Research & Development,Male,4,No
+33,4878,Research & Development,Female,2,No
+32,2837,Research & Development,Female,4,No
+40,2406,Research & Development,Male,4,No
+32,2269,Sales,Male,4,No
+39,4108,Research & Development,Male,1,No
+38,13206,Research & Development,Female,3,No
+32,10422,Sales,Female,4,No
+37,13744,Research & Development,Female,3,No
+25,4907,Sales,Female,2,No
+52,3482,Sales,Male,4,No
+44,2436,Research & Development,Male,3,No
+21,2380,Sales,Male,1,No
+39,19431,Research & Development,Male,3,No
+23,1790,Sales,Male,3,Yes
+36,7644,Sales,Female,3,No
+36,5131,Research & Development,Female,2,No
+56,6306,Research & Development,Male,4,No
+29,4787,Research & Development,Male,4,Yes
+42,18880,Research & Development,Male,3,No
+56,2339,Research & Development,Male,2,Yes
+41,13570,Research & Development,Female,4,No
+34,6712,Sales,Female,3,No
+36,5406,Sales,Male,4,No
+41,8938,Sales,Male,3,No
+32,2439,Research & Development,Male,3,No
+35,8837,Human Resources,Female,4,No
+38,5343,Sales,Female,2,No
+50,6728,Sales,Male,4,Yes
+36,6652,Sales,Female,4,No
+45,4850,Sales,Female,3,No
+40,2809,Research & Development,Male,4,No
+35,5689,Research & Development,Male,4,No
+40,2001,Research & Development,Female,4,No
+35,2977,Research & Development,Female,4,No
+29,4025,Research & Development,Male,2,No
+29,3785,Research & Development,Female,4,No
+50,10854,Sales,Male,3,Yes
+39,12031,Sales,Female,1,No
+31,9936,Research & Development,Male,3,No
+26,2966,Sales,Female,3,No
+36,2571,Research & Development,Male,2,No
+39,9991,Research & Development,Male,1,No
+27,6142,Research & Development,Male,3,No
+49,5390,Sales,Male,3,No
+34,4404,Research & Development,Male,3,No
