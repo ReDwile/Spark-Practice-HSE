@@ -1,0 +1,16 @@
+rating,rating_description
+G,General Audiences
+TV-G,General Audience (TV)
+PG,Parental Guidance Suggested
+TV-PG,Parental Guidance Suggested (TV)
+PG-13,Parents Strongly Cautioned
+TV-14,Parents Strongly Cautioned (TV)
+R,Restricted
+TV-MA,Mature Audience (TV)
+NR,Not Rated
+UR,Unrated
+TV-Y,All Children (TV)
+TV-Y7,Older Children (TV)
+TV-Y7-FV,Older Children – Fantasy Violence
+TV-NR,Not Rated (TV)
+NC-17,Adults Only
